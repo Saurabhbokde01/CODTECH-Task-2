@@ -1,5 +1,5 @@
-#CODTECH-Task-2
-#BMI Tracker App
+# CODTECH-Task-2 
+# BMI Tracker App 
 Name :- Saurabh Naresh Bokde Intern ID :- CT12DPB Domain :- Machine Learning Duration :- 8 weeks
 
 Description :- 
